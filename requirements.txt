@@ -1,0 +1,6 @@
+ultralytics
+mediapipe
+opencv-python
+deep-sort-realtime
+streamlit
+pandas
